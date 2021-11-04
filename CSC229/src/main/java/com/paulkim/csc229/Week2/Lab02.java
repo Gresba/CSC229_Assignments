@@ -1,4 +1,4 @@
-package com.paulkim.csc229lab2;
+package com.paulkim.csc229.Week2;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
