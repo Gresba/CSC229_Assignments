@@ -1,4 +1,4 @@
-package com.paulkim.csc229.Week8;
+package Week8;
 
 import java.util.Arrays;
 

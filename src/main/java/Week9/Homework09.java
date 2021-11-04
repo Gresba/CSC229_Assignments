@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.paulkim.csc229.Week9;
+package Week9;
 
 /**
  *
