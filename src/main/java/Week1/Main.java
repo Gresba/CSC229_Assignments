@@ -1,4 +1,4 @@
-package com.paulkim.csc229.Week1;
+package Week1;
 
 /**
  * Main class which runs all the code and contains the main method

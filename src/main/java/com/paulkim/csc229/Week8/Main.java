@@ -9,7 +9,7 @@ package com.paulkim.csc229.Week8;
  *
  * @author paulk
  */
-public class Tester {
+public class Main {
     public static void main(String[] args) {
         int[] arr = {5, 7, 3, 11, 4, 2, 6};
         int[] sortArr = {1, 5, 7, 8, 9, 11, 15, 21};

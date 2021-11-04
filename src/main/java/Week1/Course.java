@@ -1,4 +1,4 @@
-package com.paulkim.csc229.Week1;
+package Week1;
 
 /**
  * The Course class which contains getters, setters, overloaded constructor, which takes three parameters
