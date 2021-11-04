@@ -82,7 +82,7 @@ public class Course {
     }
 
     /**
-     * Setter for the member code
+     * Setter for the member code.
      * 
      * @param code set the code for the course
      */
