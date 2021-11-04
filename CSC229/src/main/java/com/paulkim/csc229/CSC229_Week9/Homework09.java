@@ -27,16 +27,16 @@ public class Homework09 {
         //ANSWER: 73920
     */
     public static void main(String[] args) {
-        System.out.println(triangleHundred());
+        System.out.println(triangleHundred(100));
     }
     
-    static int triangleHundred()
+    static int triangleHundred(int factors)
     {
         int dCounter = 0;
         int i = 1;
         int sum = 0;
         
-        while(dCounter <= 500)
+        while(dCounter <= factors)
         {
             dCounter = 0;
             sum += i++;
