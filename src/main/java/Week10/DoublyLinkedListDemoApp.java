@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Slight edited version of https://github.com/moaathalrajab/DoublyLinkedList_Stack_Queue_Demo/blob/master/src/main/java/com/mycompany/dllists_stacks_queues/DoublyLinkedListDemoApp.java
 package Week10;
 
 /**
