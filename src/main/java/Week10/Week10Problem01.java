@@ -9,11 +9,12 @@ package Week10;
  *
  * @author paulk
  */
-public class Main {
+public class Week10Problem01 {
     public static void main(String[] args) {
         System.out.println(sumOfPrimeThree(23));
     }
     
+    //Problem 01
     static int sumOfPrimeThree(int n)
     {
         int sum = 0;
