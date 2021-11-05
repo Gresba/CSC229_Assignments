@@ -30,6 +30,12 @@ public class DoublyLinkedList {
       tail = null;
    }
     
+   /**
+    * Returns sum of the last m Node's data members
+    * 
+    * @param m Last numbers
+    * @return Sum of the last m Node's data members
+    */
    public int sumOfM(int m)
    {
       int sum = 0;
@@ -41,6 +47,7 @@ public class DoublyLinkedList {
       }
       
       return sum;
+      //Time Complexity: O(m)
    }
    
    public void append(Node newNode) {
