@@ -63,8 +63,16 @@ public class Week10Problem01 {
      */
     static boolean isPrime(int n)
     {
-        if(n < 2)
+        //1 is always not a prime number so take this out right away
+        if(n == 1)
             return false;
+        
+        /*
+            Since all factors of a number, exclusive of the number itself, will be less than or equal to half the number
+            Telling the program to calculate if n divided by the number you are checking is less than or equal to half of n,
+            Makes sure that the √n is the most that part can run since dividing n by any number greater than the square root of n
+            will be > n/i, i being the number you are checking.
+        */
         for(int i = 2;i <= n/i; i++)
         {
             if(n % i == 0)
