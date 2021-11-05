@@ -7,7 +7,7 @@ package Week10;
 
 /**
  *
- * @author paulk
+ * @author MoaathAlrajab
  */
 public class DoublyLinkedListDemoApp {
    public static void main(String[] args) {
